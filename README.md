@@ -1,6 +1,3 @@
-Here’s a README for your project with emojis to make it more engaging:
-
----
 
 # 🎮 Reinforcement Learning: REINFORCE for CartPole 🚀
 
